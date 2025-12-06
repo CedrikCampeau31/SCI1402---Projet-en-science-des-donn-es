@@ -112,7 +112,7 @@ Analyses complémentaires :
 
 Les prédictions finales et les tableaux de synthèse sont écrits dans :
 
-- `Output/`
+- `artifacts_models/projections_202526_avec_historiques`
 
 ## 5. Hypothèses et résultats
 
@@ -129,8 +129,7 @@ C’est le lien direct entre la réflexion théorique (cours SCI1402) et ce qui 
 
 - SCI1402_Colab_NHL_ML_CedrikSigouinCampeau_Final.ipynb  (Notebook principal (pipeline complet))
 - hypothese_result.xlsx                                  (Synthèse hypothèses vs résultats)
-- artifacts_eda/                                         (Graphiques, stats et tableaux EDA exportés)
+- artifacts_eda/                                         (Graphiques, stats et tableaux EDA exportés, Prédictions finales, PDF avec les tableaux)
 - artifacts_models/                                      (Modèles, logs d'entraînement, métriques intermédiaires)
 - featuredselect/                                        (Scripts / notebooks de feature engineering et feature selection)
-- Output/                                                (Prédictions finales, tables prêtes à être analysées ou visualisées)
 - README.md                                             
