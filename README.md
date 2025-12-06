@@ -127,11 +127,11 @@ C’est le lien direct entre la réflexion théorique (cours SCI1402) et ce qui 
 ## 6. Structure du dépôt
 
 
-├── SCI1402_Colab_NHL_ML_CedrikSigouinCampeau_Final.ipynb  # Notebook principal (pipeline complet)
-├── hypothese_result.xlsx                                  # Synthèse hypothèses vs résultats
-├── artifacts_eda/                                         # Graphiques, stats et tableaux EDA exportés
-├── artifacts_models/                                      # Modèles, logs d'entraînement, métriques intermédiaires
-├── featuredselect/                                        # Scripts / notebooks de feature engineering et feature selection
-├── Output/                                                # Prédictions finales, tables prêtes à être analysées ou visualisées
-├── Nouveau dossier/                                       # Dossier de travail (optionnel / non critique pour la reproduction)
-└── README.md                                              # Ce fichier
+SCI1402_Colab_NHL_ML_CedrikSigouinCampeau_Final.ipynb  # Notebook principal (pipeline complet)
+hypothese_result.xlsx                                  # Synthèse hypothèses vs résultats
+artifacts_eda/                                         # Graphiques, stats et tableaux EDA exportés
+artifacts_models/                                      # Modèles, logs d'entraînement, métriques intermédiaires
+featuredselect/                                        # Scripts / notebooks de feature engineering et feature selection
+Output/                                                # Prédictions finales, tables prêtes à être analysées ou visualisées
+Nouveau dossier/                                       # Dossier de travail (optionnel / non critique pour la reproduction)
+README.md                                              # Ce fichier
